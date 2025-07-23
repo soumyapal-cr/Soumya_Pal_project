@@ -1,4 +1,4 @@
-# SQL PROJECT
+# SALES PROJECT
 
 
 Adventure Work Data Analysis
